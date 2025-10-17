@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float speed = 15.0f; // meters per second
-    public float turnSpeed = 45.0f; // degres per second
+    public float turnSpeed = 45.0f; // degrees per second
     private float verticalInput;
     private float horizontalInput;
 
